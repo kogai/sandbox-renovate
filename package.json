@@ -100,7 +100,7 @@
     "bugsnag-js": "^4.0.0",
     "chart.js": "^2.7.2",
     "classnames": "^2.2.5",
-    "detect-browser": "^2.4.0",
+    "detect-browser": "^3.0.0",
     "fast-xml-parser": "^3.11.1",
     "formik": "^0.11.11",
     "graphql": "^0.13.0",
