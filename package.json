@@ -137,7 +137,7 @@
     "redux": "^4.0.0",
     "redux-persist": "^5.9.1",
     "semantic-ui-css": "^2.2.12",
-    "semantic-ui-react": "^0.79.0",
+    "semantic-ui-react": "^0.81.0",
     "string-hash": "^1.1.3",
     "unfetch": "^3.0.0",
     "validator": "^10.0.0"
