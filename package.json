@@ -6,7 +6,7 @@
     "node": "8.11.3"
   },
   "scripts": {
-    "update": "npx renovate --token \"$GITHUB_ACCESS_TOKEN_RENOVATE\" feedforce/ecbooster"
+    "update": "npx renovate --token \"$GITHUB_ACCESS_TOKEN_RENOVATE\" kogai/sandbox-renovate"
   },
   "devDependencies": {
     "@kogai/typed_i18n": "^0.5.9",
