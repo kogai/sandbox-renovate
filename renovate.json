@@ -1,5 +1,16 @@
 {
   "extends": [
     "config:base"
+  ],
+  "rangeStrategy": "replace",
+  "pinDigests": false,
+  "circleci": {
+    "enabled": false
+  },
+  "reviewers": [
+    "kogai"
+  ],
+  "labels": [
+    "In Review"
   ]
 }
