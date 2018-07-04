@@ -6,15 +6,5 @@
   "pinDigests": false,
   "circleci": {
     "enabled": false
-  },
-  "ignoreDeps": [
-    "semantic-ui-react"
-  ],
-  "reviewers": [
-    "kogai",
-    "hanocha"
-  ],
-  "labels": [
-    "In Review"
-  ]
+  }
 }
